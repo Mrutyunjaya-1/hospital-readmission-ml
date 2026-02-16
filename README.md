@@ -16,6 +16,7 @@ UCI Diabetes 130-US hospitals dataset (100k+ records, mixed categorical and nume
 
 ## 🚀 Live Demo
 👉 http://13.60.28.169:8501
+https://huggingface.co/spaces/nK2103/ml_end_to_end
 
 ## ▶️ Run Locally
 ```bash
